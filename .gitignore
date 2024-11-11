@@ -31,3 +31,8 @@ yarn.lock
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
